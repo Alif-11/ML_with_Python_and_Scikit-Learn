@@ -10,3 +10,6 @@ authors wrote that correspond to this book. It also has a script to check if
 your conda environment has the right dependencies.
 
 Repository associated with the textbook: [The link](https://github.com/rasbt/machine-learning-book)
+
+Here is the link to the reference page I am using for the iris dataset:
+[The link](https://archive.ics.uci.edu/dataset/53/iris)
